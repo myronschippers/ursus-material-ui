@@ -31,3 +31,9 @@ import {
   Container,
 } from '@material-ui/core';
 ```
+
+## Using Imported Component
+
+```js
+
+```
